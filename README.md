@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue)]() [![Ansible: 2.15](https://img.shields.io/badge/ansible-2.15-blueviolet)]() [![PHP: 8.1+](https://img.shields.io/badge/php-8.1+-orange)]() [![MediaWiki: 1.45.x](https://img.shields.io/badge/mediawiki-1.45.x-blue)]() [![Security](https://img.shields.io/badge/security-high-red)]()
+![Ansible](https://img.shields.io/badge/Ansible-2.9+-red.svg?logo=ansible\&logoColor=white) ![PHP: 8.1+](https://img.shields.io/badge/php-8.1+-orange) ![MediaWiki: 1.45.x](https://img.shields.io/badge/mediawiki-1.45.x-blue) ![Security](https://img.shields.io/badge/security-high-red) ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 # MediaWiki Ansible Setup
 
@@ -38,7 +38,7 @@ Dieses Repository enthält ein **professionelles Bash-Skript**, das **MediaWiki 
 Skript ausführen:
 
 ```bash
-sudo ./run_setup.sh
+bash ./run_setup.sh
 ```
 
 Das Skript:
@@ -88,7 +88,7 @@ Das Skript installiert automatisch die folgenden Extensions:
 
 ## Lizenz
 
-Dieses Skript steht unter MIT-Lizenz. Nutze es frei in eigenen Projekten.
+Dieses Skript steht unter MIT-Lizenz.
 
 ## Support / Issues
 
